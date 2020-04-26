@@ -1,0 +1,14 @@
+#header{
+    position: sticky;
+    top:0px;
+}
+#announcement_bar{
+    background-color: #FEC4DD;
+}
+
+#announcement_message {
+    font: bold 16px "UniversBoldCondensed", Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+}
